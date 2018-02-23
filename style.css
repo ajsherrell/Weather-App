@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Bigshot+One);
+h1 {
+  font-family: garamond;
+  font-weight: bold;
+  font-size: 50px;
+}
+body {
+  background-size: cover;
+  background-repeat: no repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+p {
+  font-family: garamond;
+  font-size: 20px;
+}
+
+a {
+  color: black;
+}
+
+footer {
+  font-family: 'Bigshot One', garamond, serif;
+  color: black;
+}
